@@ -1072,6 +1072,14 @@ iframe{
   .reg-container{
     margin: 2rem auto;
   }
+  .events-hover{
+    margin: 0.5rem;
+    padding: 0.5rem;
+  }
+  .reg-now{
+    padding: 0.5rem;
+    margin: 0.2rem;
+  }
 }
 
 /* external effects */
